@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccountName": {
-            "value": "harishstoragedemo1"
+            "value": "testertoolstorageaccount"
         },
         "storageAccountKey": {
-            "value": "d2GO8FnODUg4+wKJV4rvM05qPllDUGVQauxohAqUZ4YxY/kxk2i2H3DzD57hRGLiVuZ5PTW2W8DMV6xSXCUHaQ=="
+            "value": "6Slmp1nsAUiFZj7itAz/umQAlnIeBmL8hQKpt4hICBeSsl6S2Kv4T4vDrW7fx7xbK6wxDGX+B60+jUsj4d/Ktw=="
         },
         "SfUserName": {
-            "value": "changeme"
+            "value": "priyanka.kumari@citrix.com"
         },
 		"SfPassword": {
-            "value": "changeme"
+            "value": "!@Growth34"
         },
 		"SfSecurityToken": {
-            "value": "changeme"
+            "value": "CovzcDJAoAgUv4nVfywFATVO"
         },
 		"SfTable": {
-            "value": "Product2"
+            "value": "Accounts"
         }
    }
 }
